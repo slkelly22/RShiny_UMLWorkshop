@@ -1,0 +1,12 @@
+name: GapminderApplication
+title: GapminderApplication
+username: slkelly
+account: slkelly
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13174755
+bundleId: 9287833
+url: https://slkelly.shinyapps.io/GapminderApplication/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
