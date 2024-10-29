@@ -1,0 +1,12 @@
+name: ElectricCarsApplication
+title: ElectricCarsApplication
+username: slkelly
+account: slkelly
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13168645
+bundleId: 9287745
+url: https://slkelly.shinyapps.io/ElectricCarsApplication/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
