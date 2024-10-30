@@ -17,7 +17,7 @@ ui <- fluidPage(
 
 server <- function(input, output){
   output$helpme <- renderText({
-    paste("I hope you dressed up for Halloween, ", input$name, "!", "Your preferred Halloween candy is ", input$candy, ".", " Yes, Halloween was ", input$date, ".")
+    paste("I hope you dressed up for Halloween,", input$name, "!", "Your preferred Halloween candy is ", input$candy, ".", " Yes, Halloween was ", input$date, ".")
   })
 }
 
