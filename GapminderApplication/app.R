@@ -11,11 +11,11 @@ ui <- fluidPage(
   titlePanel("Gapminder Data"), 
   sidebarLayout(
     sidebarPanel(
-      textOutput("justtext"), 
-      tableOutput("data")
+      textOutput("justtext") 
     ), 
     mainPanel(
-      plotOutput("plot", width = "1000px", click = "plot_click") 
+      plotOutput("plot", width = "1000px", click = "plot_click"), 
+      tableOutput("data")
     )
   )
 )
